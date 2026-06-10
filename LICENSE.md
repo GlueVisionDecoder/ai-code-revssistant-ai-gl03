@@ -1,4 +1,4 @@
-# 
+# Natif AI Password Strength Checker plugins. Avec extraction de caractéristiques et optimisation de modèles — optimisé pour des performances maximales.
 
 
 
